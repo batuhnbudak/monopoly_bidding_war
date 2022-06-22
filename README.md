@@ -13,5 +13,5 @@ All game screens, game objects such as map, property cards, chance cards, commun
 
 For the butttons I've used GunaUI Framework: https://gunaui.com/
 
-
+You can also see /Monopoly_Bidding_War_Resources to see all of the resources used in the project.
 
