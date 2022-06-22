@@ -1,7 +1,7 @@
 # Monopoly Bidding War
 ## An online, 4-player monopoly version with new rules, UI and gameplay.
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/50097456/174960244-a4f110b5-88ee-4087-84c5-19397ec195de.png">
+  <img src="https://user-images.githubusercontent.com/50097456/174960244-a4f110b5-88ee-4087-84c5-19397ec195de.png">
 </p>
 
 ![Game Board](https://user-images.githubusercontent.com/50097456/174959415-a162b8a9-abac-4f00-af48-b7d0962a3695.png)
