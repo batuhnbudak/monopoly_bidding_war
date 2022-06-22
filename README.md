@@ -3,24 +3,24 @@
 
 
 
-<h2 class="text-center">### In Game Screen</h2>
+<h2 align="center">In Game Screen</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50097456/174960244-a4f110b5-88ee-4087-84c5-19397ec195de.png">
 </p>
 
-<h2 class="text-center">### Game Board</h2>
+<h2 align="center">Game Board</h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50097456/174959415-a162b8a9-abac-4f00-af48-b7d0962a3695.png">
 </p>
 
-<h2 class="text-center">### Host Game Screen</h2>
+<h2 align="center">Host Game Screen</h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50097456/174960021-be22b111-2795-4b4a-9945-dbcc47fd2e00.PNG">
 </p>
 
-<h2 class="text-center">### Join Game Screen</h2>
+<h2 align="center">Join Game Screen</h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50097456/174960051-74f268b9-4c45-4e30-9c83-10f3e31f58d3.PNG">
